@@ -2,4 +2,4 @@
 ---
 
 
-![Banff](banff-9.jpg)
+![Banff](banff-9.JPG)
