@@ -1,52 +1,52 @@
----
-title: "C'thulhu Resume"
-layout: resume
----
+# Ezekiel Morton
+**(925)-759-3947
+ecbm96@live.com**
 
-# C'thulhu
+## EDUCATION
+**University of California Davis**, Davis, CA — B.S. Computer Science
+September 2019 – June 2021
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+**Diablo Valley College**, Concord, CA —A.S. Computer Science
+January 2018 – May 2019
+*GPA of 3.901
+*Graduated with Honors
 
-## Education
+## EXPERIENCE
+**Lawrence Livermore National Laboratory**, Livermore, CA —Computing Student Intern
+June 2019 – PRESENT
+HPC Cluster Engineering Academy
+*Completed cluster build of HPC system.
+*Used Puppet to automate configuration/installation for Merlin workflow tool.
 
-### **Withering Madness University** Planet Vhoorl
+**Lawrence Livermore National Laboratory**, Livermore, CA —Computation Student Intern
+January 2019 – June 2019
+Power Aware Computing Research
+*Researched the relationship between power consumption and performance on Intel x86 CPUs using Model Specific Registers.
+*Used R Studio to visualize data.
 
-**Major:** Public Relations
+**Lawrence Livermore National Laboratory**, Livermore, CA —Computation Administration Student Intern
+June 2018 – January 2019
+*Migrated HPC tutorials to new CMS.
+*Found and removed redundant information from Computing internal website
 
-**Minor:** Scale Tending
+**Securitas**, Rossmoor, CA —EMT Officer
+August 2017 – June 2018
+*Responded to medical emergencies for a community of 10,000 senior citizens.
+*Worked with teams of 5-7 in high stress, fast-paced environments.
+*Responded to 250+ medical emergencies.
 
-## Skills
+## SKILLS
 
-### **Office skills**
+*Teamwork
+*Interpersonal Communication
+*Programming in C/C++, Python
+*Unix Command Line
+*Problem Solving
+*Fast Learner
+*Motivated
 
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+## AWARDS
+*Associates in Science, Computer Science, May 2019
+*Associates in Science for Transfer, Mathematics, May 2019
+*Associates in Science for Transfer, Physics, May 2019
+*Associates in Arts, Liberal Arts: Math and Sciences, May 2018
