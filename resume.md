@@ -1,7 +1,7 @@
-----
+---
 title:"resume"
 layout: resume
-----
+---
 
 # Ezekiel Morton
 **(925)-759-3947**
