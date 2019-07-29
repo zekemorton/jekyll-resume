@@ -8,3 +8,5 @@ author: Elsa Gonsiorowski
 email: gonsie@me.com
 
 exclude: [README.md]
+
+theme: jekyll-theme-slate
