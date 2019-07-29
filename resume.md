@@ -1,6 +1,11 @@
+----
+title:"resume"
+layout: resume
+----
+
 # Ezekiel Morton
-**(925)-759-3947
-ecbm96@live.com**
+**(925)-759-3947**
+**ecbm96@live.com**
 
 ## EDUCATION
 **University of California Davis**, Davis, CA — B.S. Computer Science
